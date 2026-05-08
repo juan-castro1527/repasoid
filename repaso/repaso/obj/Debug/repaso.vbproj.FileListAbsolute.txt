@@ -1,0 +1,12 @@
+C:\Juan 24574\repaso\repaso\bin\Debug\repaso.exe.config
+C:\Juan 24574\repaso\repaso\bin\Debug\repaso.exe
+C:\Juan 24574\repaso\repaso\bin\Debug\repaso.pdb
+C:\Juan 24574\repaso\repaso\bin\Debug\repaso.xml
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.vbprojAssemblyReference.cache
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.Form1.resources
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.Resources.resources
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.vbproj.GenerateResource.cache
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.vbproj.CoreCompileInputs.cache
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.exe
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.xml
+C:\Juan 24574\repaso\repaso\obj\Debug\repaso.pdb
