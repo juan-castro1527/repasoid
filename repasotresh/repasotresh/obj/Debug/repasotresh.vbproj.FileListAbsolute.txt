@@ -1,0 +1,11 @@
+C:\Juan 24574\repasotresh\repasotresh\bin\Debug\repasotresh.exe.config
+C:\Juan 24574\repasotresh\repasotresh\bin\Debug\repasotresh.exe
+C:\Juan 24574\repasotresh\repasotresh\bin\Debug\repasotresh.pdb
+C:\Juan 24574\repasotresh\repasotresh\bin\Debug\repasotresh.xml
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.Form1.resources
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.Resources.resources
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.vbproj.GenerateResource.cache
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.vbproj.CoreCompileInputs.cache
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.exe
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.xml
+C:\Juan 24574\repasotresh\repasotresh\obj\Debug\repasotresh.pdb
