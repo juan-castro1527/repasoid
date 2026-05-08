@@ -1,0 +1,12 @@
+C:\Juan 24574\repasodosh\repasodosh\bin\Debug\repasodosh.exe.config
+C:\Juan 24574\repasodosh\repasodosh\bin\Debug\repasodosh.exe
+C:\Juan 24574\repasodosh\repasodosh\bin\Debug\repasodosh.pdb
+C:\Juan 24574\repasodosh\repasodosh\bin\Debug\repasodosh.xml
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.vbprojAssemblyReference.cache
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.Form1.resources
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.Resources.resources
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.vbproj.GenerateResource.cache
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.vbproj.CoreCompileInputs.cache
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.exe
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.xml
+C:\Juan 24574\repasodosh\repasodosh\obj\Debug\repasodosh.pdb
